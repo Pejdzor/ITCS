@@ -1,9 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
+main.py
+.idea
 # C extensions
 *.so
 
@@ -128,6 +130,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+=======
+.git
+.idea
+venv
+>>>>>>> 3539585 (git ignore)
 =======
 .git
 .idea
